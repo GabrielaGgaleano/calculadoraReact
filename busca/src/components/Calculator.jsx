@@ -50,6 +50,9 @@ import { useState } from 'react';
         console.log("Calculou")
      }
 
+
+     function{}
+
   return (
     <div>
         <box m={5}/>
